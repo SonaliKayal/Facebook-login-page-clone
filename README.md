@@ -1,25 +1,73 @@
-# Facebook-login-page-clone
-Facebook Login Page Clone
--Works on both desktop and mobile devices
+🌐 Facebook Login Page Clone
 
--Basic client-side validation
+A fully responsive clone of the Facebook login page built using HTML, CSS, and JavaScript.
+This project replicates the design and functionality of the official Facebook login interface, focusing on UI accuracy, responsiveness, and basic client-side form validation.
 
--Matches Facebook's current login page design
+ Features
 
-Interactive Elements:
+ - Responsive Design: Works smoothly on both desktop and mobile devices
 
--Login form with email/phone and password fields
+ - Modern UI: Closely matches Facebook’s real login page layout and color scheme
 
--Forgot password link
+Interactive Login Form:
 
--Create account button
+- Email/Phone and Password fields
 
--Create page link
+- “Forgot Password” link
 
-JavaScript Functionality:
+- “Create New Account” button
 
--Form submission handling
+- “Create a Page” link
 
--Basic validation
+- Client-Side Validation: Ensures required fields are filled before submission
 
--Placeholder for actual login functionality
+ JavaScript Functionality:
+
+- Handles form submission
+
+- Performs basic input validation
+
+- Includes placeholders for real authentication logic
+
+ Technologies Used
+
+- HTML5 – Structure of the webpage
+
+- CSS3 – Styling and responsive layout
+
+- JavaScript (Vanilla JS) – Form validation and interactivity
+
+ How It Works
+
+- The user enters an email/phone and password.
+
+- Basic client-side validation checks input correctness.
+
+- “Log In” button simulates login submission.
+
+- Additional links redirect to account creation or password recovery (placeholders).
+
+ Responsive Design
+
+- Built with flexbox and media queries
+
+- Adjusts layout for various screen sizes (mobile, tablet, desktop)
+
+ Preview
+<img width="1910" height="884" alt="Facebook Login Page" src="https://github.com/user-attachments/assets/d043f011-c849-4675-8e47-19d1dcffa25c" />
+
+
+
+
+
+💡 Learning Outcome
+
+ This project helped in improving skills in:
+
+- Responsive web design
+
+- Form handling using JavaScript
+
+- UI replication and precision layout design
+
+
